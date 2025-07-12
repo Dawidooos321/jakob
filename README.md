@@ -1,0 +1,2 @@
+# jakob
+mody na serwer
